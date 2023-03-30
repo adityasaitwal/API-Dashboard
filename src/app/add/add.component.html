@@ -1,0 +1,21 @@
+<h5 class="heading">ADD YOUR DATA</h5>
+<form [formGroup]="usersform" class="container">
+
+    <label for="exampleInputName" class="form-label">Enter your Name</label><br>
+    <input type="name" class="form-control mb-2" id="name" formControlName="name">
+
+    <label for="exampleInputEmail" class="form-label">Enter your Email</label><br>
+    <input type="email" class="form-control mb-2" id="email" formControlName="email">
+
+    <label for="exampleInputPhone" class="form-label">Enter your Phone No.</label><br>
+    <input type="number" class="form-control mb-2" id="number" formControlName="phone">
+
+    <label for="exampleInputCity" class="form-label">Enter your City</label><br>
+    <input type="name" class="form-control mb-2" id="name"  formControlName="city">
+    
+    <div class="btn">
+
+        <button type="submit" class="btn btn-primary" (click)='adduser()' routerLink="/display">Submit</button>
+
+    </div>
+</form>

@@ -1,0 +1,23 @@
+{
+  "posts": [],
+  "comments": [],
+  "emp": [
+    {
+      "id": 1,
+      "name": "aditya",
+      "email": "aditya@gmail.com",
+      "phone": 7507848828,
+      "city": "Jalgaon"
+    },
+    {
+      "id": 2,
+      "name": "satish",
+      "email": "satish@gmail.com",
+      "phone": 9423773890,
+      "city": "Vadgaon"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

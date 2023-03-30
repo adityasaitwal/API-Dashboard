@@ -1,0 +1,23 @@
+.heading {
+
+    color: red;
+    margin-top: 50px;
+    margin-left: 580px;
+}
+
+.subheading {
+
+    color:blueviolet;
+    margin-left: 480px;
+}
+
+.bg {
+
+    background-color:aqua;
+}
+
+body {
+
+    background-color: brown;
+}
+
