@@ -1,1 +1,1 @@
-API Dashboard made using CRUD operations in Angular.
+API Dashboard made using CRUD Operations in Angular.
