@@ -1,1 +1,1 @@
-API Dashboard using Angular with GET, POST, DELETE and UPDATE methods.
+API Dashboard made using CRUD operations in Angular.
